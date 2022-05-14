@@ -17,6 +17,7 @@
 
  - [The Team](#the-team)
  - [Getting Started](#getting-started)
+ - [Features](#features)
  - [API Endpoints](#api-endpoints)
  - [UI / UX](#ui-ux)
 
@@ -96,6 +97,15 @@ Node.js server listening on port PORT...
 ```
 
 Open http://localhost:PORT with your browser to see the result.
+
+## Features
+**Feature 1**
+</br>
+Description of this feature here.
+
+**Feature 2**
+</br>
+Description of this feature here.
 
 ## API Endpoints
 
