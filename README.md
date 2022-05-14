@@ -1,6 +1,65 @@
-# Rumble
-Rumble, a mobile food ordering app, done Tinder style.<br>
-Software Team: [Dennis Cao](https://www.linkedin.com/in/dennisrcao/), Chris Padovan [Francesco Garofalo](https://www.linkedin.com/in/garofalofrancesco/), [Dong Hyoung Kim](https://www.linkedin.com/in/dong-hyoung-kim-7686b8222/) Jake Gilfix, Edgar Carillo, Daniel Esquivel-Reynoso.
+<div align="center" width="100%">
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js Icon" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Icon" />
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase Icon" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js Icon" />
+</div>
+
+<h1 align="center">Rumble</h1>
+
+<div align="center" width="100%">
+    <img src="https://i.imgur.com/qcG7o3Y.png">
+</div>
+
+<h4 align="center">Rumble, a mobile food ordering app, done Tinder style.</h4>
+
+## The Team
+
+### Contributor: Edgar Carrillo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ecarrillo046/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ec-rilo)
+#### UI Specialist | PM | Full-Stack Engineer
+
+Insert Description here of what you created does and after that, describe what you did to make it happen.
+
+### Contributor: Francesco Garofalo 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garofalofrancesco/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/garofalof)
+#### Full-Stack Engineer
+
+Insert Description here of what you created does and after that, describe what you did to make it happen.
+
+### Contributor: Dennis Cao
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
+#### Full-Stack Engineer
+
+Insert Description here of what you created does and after that, describe what you did to make it happen.
+
+### Contributor: Daniel Esquivel-Reynoso
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
+#### Full-Stack Engineer
+
+Insert Description here of what you created does and after that, describe what you did to make it happen.
+
+### Contributor: Dong Hyoung Kim 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
+#### Full-Stack Engineer
+
+Insert Description here of what you created does and after that, describe what you did to make it happen.
+
+### Contributor: Chris Padovan
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-padovan/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChrisPadovan)
+#### Full-Stack Engineer
+
+Insert Description here of what you created does and after that, describe what you did to make it happen.
+
+
+
+![](https://media.giphy.com/media/XY6RLsac5RdW0okQlC/giphy.gif)
 
 https://user-images.githubusercontent.com/521934/168444266-15f73cc7-9e8d-4032-8f19-d1ec723eea7f.mp4
 
