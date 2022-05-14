@@ -14,12 +14,15 @@
 <h4 align="center">Rumble, a mobile food ordering app, done Tinder style.</h4>
 
 ## Content
-
+ - [Motivation and Story](#motivation-and-story)
  - [The Team](#the-team)
  - [Getting Started](#getting-started)
  - [Features](#features)
  - [API Endpoints](#api-endpoints)
  - [UI / UX](#ui-ux)
+
+## Motivation and Story
+Lorem ipsum set some stuff.
 
 ## The Team
 
