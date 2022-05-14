@@ -13,6 +13,13 @@
 
 <h4 align="center">Rumble, a mobile food ordering app, done Tinder style.</h4>
 
+## Content
+
+ - [The Team](#the-team)
+ - [Getting Started](#getting-started)
+ - [API Endpoints](#api-endpoints)
+ - [UI / UX](#ui-ux)
+
 ## The Team
 
 ### Contributor: Edgar Carrillo
@@ -36,7 +43,7 @@ Insert Description here of what you created does and after that, describe what y
 
 Insert Description here of what you created does and after that, describe what you did to make it happen.
 
-### Contributor: Daniel Esquivel-Reynoso
+### Contributor: Jake Gilfix
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
 #### Full-Stack Engineer
@@ -44,6 +51,13 @@ Insert Description here of what you created does and after that, describe what y
 Insert Description here of what you created does and after that, describe what you did to make it happen.
 
 ### Contributor: Dong Hyoung Kim 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dong-hyoung-kim/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DongHyoungKim)
+#### Full-Stack Engineer
+
+Insert Description here of what you created does and after that, describe what you did to make it happen.
+
+### Contributor: Daniel Esquivel-Reynoso
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
 #### Full-Stack Engineer
@@ -144,7 +158,7 @@ Retrieve a single restaurant
 
 
 
-## UI/UX
+## UI UX
 
 https://user-images.githubusercontent.com/521934/168444266-15f73cc7-9e8d-4032-8f19-d1ec723eea7f.mp4
 
